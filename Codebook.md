@@ -11,6 +11,7 @@
 3. Main measurements were taken from X_train.txt and X_test.txt
 4. The above three were combined to give a data frame of 563 columns and 7352 rows for train and 2947 rows for test data set.
 
+
 3. Finally train and test data was combined
 4. The mean and std measurements were extracted
 5. This data was grouped by subject and activity and summarized to averages.
